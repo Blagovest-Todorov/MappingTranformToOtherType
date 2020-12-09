@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\01.LinqTuition\01.LinqTuition\bin\Debug\netcoreapp3.1\01.LinqTuition.exe
+C:\Users\Bla\source\repos\01.LinqTuition\01.LinqTuition\bin\Debug\netcoreapp3.1\01.LinqTuition.deps.json
+C:\Users\Bla\source\repos\01.LinqTuition\01.LinqTuition\bin\Debug\netcoreapp3.1\01.LinqTuition.runtimeconfig.json
+C:\Users\Bla\source\repos\01.LinqTuition\01.LinqTuition\bin\Debug\netcoreapp3.1\01.LinqTuition.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.LinqTuition\01.LinqTuition\bin\Debug\netcoreapp3.1\01.LinqTuition.dll
+C:\Users\Bla\source\repos\01.LinqTuition\01.LinqTuition\bin\Debug\netcoreapp3.1\01.LinqTuition.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\01.LinqTuition\obj\Debug\netcoreapp3.1\01.LinqTuition.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\01.LinqTuition\01.LinqTuition\obj\Debug\netcoreapp3.1\01.LinqTuition.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\01.LinqTuition\obj\Debug\netcoreapp3.1\01.LinqTuition.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.LinqTuition\01.LinqTuition\obj\Debug\netcoreapp3.1\01.LinqTuition.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\01.LinqTuition\obj\Debug\netcoreapp3.1\01.LinqTuition.dll
+C:\Users\Bla\source\repos\01.LinqTuition\01.LinqTuition\obj\Debug\netcoreapp3.1\01.LinqTuition.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\01.LinqTuition\obj\Debug\netcoreapp3.1\01.LinqTuition.genruntimeconfig.cache

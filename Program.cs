@@ -2,20 +2,26 @@
 using System.Linq;
 using System.Collections.Generic;
 
-namespace _01.LinqTuition
+
+
+namespace _02.LinqTuition
 {
     class Program
     {
         static void Main(string[] args)
         {
-            List<int> transformedInput = Console.ReadLine()     //string collection
-                                            .Split(' ')   // Split returns a split array
-                                            .Select(int.Parse)   // tranfroming string to integer
-                                            .ToList();
+            string[] array = new string[]
+                { "John dow", "John Moe","John Foe", "Lisa Gradner"};
 
-            Console.WriteLine(transformedInput[5]); // this is how linq workes, tranforms here string to integer
-            // move from the left wiht 5symbols, abnd print  the symbol 'c'
-            Console.WriteLine(string.Join(", ", transformedInput));
-        } // mappimng - > transform one element of a collection to another type element of other collection;
+            //array = array.Select(x => x.Split(' ')[0]).ToArray(); // for every element in the string array, 
+            //// split it by white space and take the first part of teh element 
+            //Console.WriteLine(string.Join("  ", array));
+
+            List<string> list = array.Select(x => x.Split(' ')[0]).ToList(); //selects arr elements, 
+            // removes white space take the first element and converts it to list of string 
+            // but only with the first name
+            Console.WriteLine(string.Join(" ", list)); //here we print the content of the list as string array
+
+        }
     }
 }

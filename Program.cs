@@ -22,6 +22,7 @@ namespace _02.LinqTuition
             // but only with the first name
             Console.WriteLine(string.Join(" ", list)); //here we print the content of the list as string array
             //Linq can be used to convert one type collection to another type collection!
+            // converting one collection to another--example - >  toArray() ,ToList() methods !
         }
     }
 }

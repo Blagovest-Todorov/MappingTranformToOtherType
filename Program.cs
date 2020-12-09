@@ -21,7 +21,7 @@ namespace _02.LinqTuition
             // removes white space take the first element and converts it to list of string 
             // but only with the first name
             Console.WriteLine(string.Join(" ", list)); //here we print the content of the list as string array
-
+            //Linq can be used to convert one type collection to another type collection!
         }
     }
 }
